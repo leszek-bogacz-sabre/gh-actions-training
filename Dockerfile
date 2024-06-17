@@ -10,9 +10,9 @@ FROM myoung34/github-runner:latest
 #########################################
 # Variables #
 #########################################
-ARG orgname="YOUR ORG"
+ARG orgname="Sabre"
 # change this to repo name
-ARG reponame="YOUR REPO"
+ARG reponame="gh-actions-training"
 
 #########################################
 # Label the instance and set maintainer #
